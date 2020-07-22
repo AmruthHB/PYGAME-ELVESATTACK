@@ -1,6 +1,4 @@
 # Amruth Baskar
-# 19/1/2018
-# ICS3U-Pygame- CPT
 # Creates a shooter game in which the player has to try to score as many points as possible by surviving waves of enslaved elves
 
 import pygame
