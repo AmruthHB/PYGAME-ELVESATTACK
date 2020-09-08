@@ -1,5 +1,5 @@
 # Amruth Baskar
-# Creates a shooter game in which the player has to try to score as many points as possible by surviving waves of enslaved elves
+# Creates a shooter game in which the player has to try to score as many points as possible by surviving waves of evil elves
 
 import pygame
 import random
